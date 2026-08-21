@@ -13,10 +13,14 @@ This repository contains the source code and documentation for a **Web-Controlle
 This separation of tasks ensures that heavy Wi-Fi processing does not interfere with the real-time control of the DC motors.
 
 ### 📸 Product Image
-![Real Car](Images/san_pham.jpg)
+<p align="center">
+  <img src="Images/san_pham.jpg" alt="Real Car" width="600">
+</p>
 
 ### 💻 Web Control Interface
-![Real Car](Images/giao_dien.jpg)
+<p align="center">
+  <img src="Images/giao_dien.jpg" alt="Web Interface" width="600">
+</p>
 
 ### 🎬 Demo Video
 [🎥 Click here to watch the demo video in action](demo.mp4)
