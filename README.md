@@ -38,6 +38,8 @@ This separation of tasks ensures that heavy Wi-Fi processing does not interfere 
 *   1x L298N Dual H-Bridge Motor Driver
 *   1x 4WD Smart Robot Car Chassis (with 4 DC Motors)
 *   Jumper Wires & Power Switch
+*   1x Breadboard (Test board)
+*   1x 12V Power Supply / Battery Pack
 
 ---
 
