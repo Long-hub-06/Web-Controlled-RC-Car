@@ -16,7 +16,7 @@ This separation of tasks ensures that heavy Wi-Fi processing does not interfere 
 ![Real Car](Images/san_pham.jpg)
 
 ### 💻 Web Control Interface
-*(Bạn kéo thả file ảnh giao diện web vào dòng này)*
+![Real Car](Images/giao_dien.jpg)
 
 ### 🎬 Demo Video
 [🎥 Click here to watch the demo video in action](demo.mp4)
