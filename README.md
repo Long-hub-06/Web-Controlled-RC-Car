@@ -72,6 +72,7 @@ This separation of tasks ensures that heavy Wi-Fi processing does not interfere 
 📦 Web-Controlled-RC-Car
  ┣ 📂 Images
  ┃ ┗ 📜 san_pham.jpg         # Real image of the assembled car
+ ┃ ┗ 📜 giao_dien.jpg 
  ┣ 📂 version1.0
  ┃ ┣ 📂 esp32/esp
  ┃ ┃ ┗ 📜 esp.ino            # Source code for ESP32 Web Server
